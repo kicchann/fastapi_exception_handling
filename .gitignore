@@ -1,0 +1,11 @@
+.devcontainer/
+pycache/
+.env
+.env.development
+.db
+__pycache__/
+.pytest_cache/
+.vscode/
+output.txt
+.coverage
+logs/
